@@ -1,7 +1,7 @@
-# Puraify-tic-tac-toe
-A responsive minimal looking tic-tac-toe game with a beautiful ui
+# puraify-tic-tac-toe
+A responsive minimal looking tic-tac-toe game with a beautiful UI.
 
-# Pre - requisites
+# Pre-requisites
 
 this project uses,
 
@@ -11,13 +11,13 @@ this project uses,
 
 - [TailwindCSS](https://tailwindcss.com/)
 
-# Running Locally,
+# Running Locally
 
 To run this project on live server, run
 
 `npm run start`
 
-# Build for deploy,
+# Build for deploy
 
 To build this file, run
 
